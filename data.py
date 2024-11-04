@@ -1,3 +1,6 @@
+# An example board layout and key provided below:
+
+# Use "0" for a blacked out square and "1 - 26" for each possible space
 board = [
         [23,20,20,6 ,2 ,16,0 ,0 ,3 ,17,13,3 ,6 ,16,9 ],
         [0 ,11,0 ,23,0 ,23,0 ,16,0 ,0 ,1 ,0 ,18,0 ,6 ],
@@ -16,6 +19,7 @@ board = [
         [8 ,3 ,26,11,3 ,6 ,16,0 ,0 ,15,5 ,3 ,11,4 ,9 ]
         ]
 
+# Input given letters in the key below
 key =   {
         "1" : "",
         "2" : "",
